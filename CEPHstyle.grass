@@ -1,0 +1,90 @@
+﻿node {
+  diameter: 50px;
+  color: #A5ABB6;
+  border-color: #9AA1AC;
+  border-width: 2px;
+  text-color-internal: #FFFFFF;
+  font-size: 10px;
+}
+relationship {
+  color: #A5ABB6;
+  shaft-width: 1px;
+  font-size: 8px;
+  padding: 3px;
+  text-color-external: #000000;
+  text-color-internal: #FFFFFF;
+  caption: "<type>";
+}
+node.CHReup {
+  color: #DA7194;
+  border-color: #cc3c6c;
+  text-color-internal: #FFFFFF;
+  caption: "{name}";
+  diameter: 65px;
+}
+node.* {
+  color: #F79767;
+  border-color: #f36924;
+  text-color-internal: #FFFFFF;
+  defaultCaption: "<id>";
+}
+node.CNEeup {
+  color: #DA7194;
+  border-color: #cc3c6c;
+  text-color-internal: #FFFFFF;
+  caption: "{name}";
+  diameter: 20px;
+}
+node.GENEeup {
+  color: #DA7194;
+  border-color: #cc3c6c;
+  text-color-internal: #FFFFFF;
+  caption: "{name}";
+  diameter: 50px;
+}
+node.CHRnau {
+  color: #D9C8AE;
+  border-color: #c0a378;
+  text-color-internal: #2A2C34;
+  caption: "{name}";
+  diameter: 65px;
+}
+node.CNEnau {
+  color: #D9C8AE;
+  border-color: #c0a378;
+  text-color-internal: #2A2C34;
+  caption: "{name}";
+  diameter: 20px;
+}
+node.GENEnau {
+  color: #D9C8AE;
+  border-color: #c0a378;
+  text-color-internal: #2A2C34;
+  caption: "{name}";
+}
+node.CHRoct {
+  color: #F79767;
+  border-color: #f36924;
+  text-color-internal: #FFFFFF;
+  caption: "{name}";
+  diameter: 65px;
+}
+node.CNEoct {
+  color: #F79767;
+  border-color: #f36924;
+  text-color-internal: #FFFFFF;
+  caption: "{name}";
+  diameter: 20px;
+}
+node.GENEoct {
+  color: #F79767;
+  border-color: #f36924;
+  text-color-internal: #FFFFFF;
+  caption: "{name}";
+}
+relationship.orthologous {
+  shaft-width: 5px;
+  color: #FFC454;
+  border-color: #d7a013;
+  text-color-internal: #2A2C34;
+}
