@@ -1,4 +1,4 @@
-﻿node {
+node {
   diameter: 50px;
   color: #A5ABB6;
   border-color: #9AA1AC;
@@ -88,3 +88,44 @@ relationship.orthologous {
   border-color: #d7a013;
   text-color-internal: #2A2C34;
 }
+node.CHRdor {
+  caption: "{name}";
+  diameter: 65px;
+  color: #FFC454;
+  border-color: #d7a013;
+  text-color-internal: #2A2C34;
+}
+node.GENEdor {
+  caption: "{name}";
+  color: #FFC454;
+  border-color: #d7a013;
+  text-color-internal: #2A2C34;
+}
+node.GENEobi {
+  caption: "{name}";
+  color: #57C7E3;
+  border-color: #23b3d7;
+  text-color-internal: #2A2C34;
+}
+node.CHRobi {
+  caption: "{name}";
+  diameter: 65px;
+  color: #57C7E3;
+  border-color: #23b3d7;
+  text-color-internal: #2A2C34;
+}
+node.CHRpec {
+  defaultCaption: "<id>";
+  diameter: 65px;
+  caption: "{name}";
+  color: #F16667;
+  border-color: #eb2728;
+  text-color-internal: #FFFFFF;
+}
+node.GENEpec {
+  caption: "{name}";
+  color: #F16667;
+  border-color: #eb2728;
+  text-color-internal: #FFFFFF;
+}
+
