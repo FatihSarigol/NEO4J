@@ -128,4 +128,24 @@ node.GENEpec {
   border-color: #eb2728;
   text-color-internal: #FFFFFF;
 }
-
+node.CNEdor {
+  caption: "{name}";
+  color: #FFC454;
+  border-color: #d7a013;
+  text-color-internal: #2A2C34;
+  diameter: 20px;
+}
+node.CNEobi {
+  caption: "{name}";
+  color: #57C7E3;
+  border-color: #23b3d7;
+  text-color-internal: #2A2C34;
+  diameter: 20px;
+}
+node.CNEpec {
+  caption: "{name}";
+  color: #F16667;
+  border-color: #eb2728;
+  text-color-internal: #FFFFFF;
+  diameter: 20px;
+}
