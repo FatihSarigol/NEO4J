@@ -155,6 +155,7 @@ node.GENEach {
   color: #604A0E;
   border-color: #423204;
   text-color-internal: #FFFFFF;
+  diameter: 50px;
 }
 node.CHRach {
   defaultCaption: "<id>";
