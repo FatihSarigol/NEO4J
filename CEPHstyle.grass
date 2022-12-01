@@ -191,7 +191,7 @@ node.CNEana {
 node.GENEana {
   defaultCaption: "<id>";
   caption: "{name}";
-  diameter: 20px;
+  diameter: 50px;
   color: #569480;
   border-color: #447666;
   text-color-internal: #FFFFFF;
