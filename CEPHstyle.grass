@@ -149,3 +149,51 @@ node.CNEpec {
   text-color-internal: #FFFFFF;
   diameter: 20px;
 }
+node.GENEach {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #604A0E;
+  border-color: #423204;
+  text-color-internal: #FFFFFF;
+}
+node.CHRach {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 65px;
+  color: #604A0E;
+  border-color: #423204;
+  text-color-internal: #FFFFFF;
+}
+node.CNEach {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 20px;
+  color: #604A0E;
+  border-color: #423204;
+  text-color-internal: #FFFFFF;
+}
+node.CHRana {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 65px;
+  color: #569480;
+  border-color: #447666;
+  text-color-internal: #FFFFFF;
+}
+node.CNEana {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #569480;
+  border-color: #447666;
+  text-color-internal: #FFFFFF;
+  diameter: 20px;
+}
+node.GENEana {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 20px;
+  color: #569480;
+  border-color: #447666;
+  text-color-internal: #FFFFFF;
+}
+
