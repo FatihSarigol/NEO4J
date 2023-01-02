@@ -20,7 +20,7 @@ node.CHReup {
   border-color: #cc3c6c;
   text-color-internal: #FFFFFF;
   caption: "{name}";
-  diameter: 65px;
+  diameter: 80px;
 }
 node.* {
   color: #F79767;
@@ -47,7 +47,7 @@ node.CHRnau {
   border-color: #c0a378;
   text-color-internal: #2A2C34;
   caption: "{name}";
-  diameter: 65px;
+  diameter: 80px;
 }
 node.CNEnau {
   color: #D9C8AE;
@@ -67,7 +67,7 @@ node.CHRoct {
   border-color: #f36924;
   text-color-internal: #FFFFFF;
   caption: "{name}";
-  diameter: 65px;
+  diameter: 80px;
 }
 node.CNEoct {
   color: #F79767;
@@ -90,7 +90,7 @@ relationship.orthologous {
 }
 node.CHRdor {
   caption: "{name}";
-  diameter: 65px;
+  diameter: 80px;
   color: #FFC454;
   border-color: #d7a013;
   text-color-internal: #2A2C34;
@@ -109,14 +109,14 @@ node.GENEobi {
 }
 node.CHRobi {
   caption: "{name}";
-  diameter: 65px;
+  diameter: 80px;
   color: #57C7E3;
   border-color: #23b3d7;
   text-color-internal: #2A2C34;
 }
 node.CHRpec {
   defaultCaption: "<id>";
-  diameter: 65px;
+  diameter: 80px;
   caption: "{name}";
   color: #F16667;
   border-color: #eb2728;
@@ -160,7 +160,7 @@ node.GENEach {
 node.CHRach {
   defaultCaption: "<id>";
   caption: "{name}";
-  diameter: 65px;
+  diameter: 80px;
   color: #604A0E;
   border-color: #423204;
   text-color-internal: #FFFFFF;
@@ -176,7 +176,7 @@ node.CNEach {
 node.CHRana {
   defaultCaption: "<id>";
   caption: "{name}";
-  diameter: 65px;
+  diameter: 80px;
   color: #569480;
   border-color: #447666;
   text-color-internal: #FFFFFF;
