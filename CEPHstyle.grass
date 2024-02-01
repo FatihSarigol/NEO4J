@@ -197,4 +197,224 @@ node.GENEana {
   border-color: #447666;
   text-color-internal: #FFFFFF;
 }
+node.CHRCRAVIR {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.CHRBIOGLA {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.CHRCRAANG {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.CHRDREPOL {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.CHRGIGAEG {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.CHRHALRUF {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.CHRMERMER {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.CHRMYTCAL {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.CHROCTBIM {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.CHROCTSIN {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.CHRPATVUL {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.CHRPECMAX {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.CHRPMAPMA {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.CHRPOMCAN {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.GENEBIOGLA {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.GENECRAANG {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.GENECRAVIR {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.GENEDREPOL {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.GENEGIGAEG {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.GENEHALRUF {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.GENEMERMER {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.GENEMYTCAL {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.GENEOCTBIM {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.GENEOCTSIN {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.GENEPATVUL {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.GENEPECMAX {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.GENEPMAPMA {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.GENEPOMCAN {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node._Bloom_Perspective_ {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #4C8EDA;
+  border-color: #2870c2;
+  text-color-internal: #FFFFFF;
+}
+node._Bloom_Scene_ {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #4C8EDA;
+  border-color: #2870c2;
+  text-color-internal: #FFFFFF;
+}
+relationship._Bloom_HAS_SCENE_ {
+  color: #4C8EDA;
+  border-color: #2870c2;
+  text-color-internal: #FFFFFF;
+}
+relationship.location {
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
 
