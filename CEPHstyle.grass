@@ -413,8 +413,145 @@ relationship._Bloom_HAS_SCENE_ {
   text-color-internal: #FFFFFF;
 }
 relationship.location {
+  color: #D9C8AE;
+  border-color: #c0a378;
+  text-color-internal: #2A2C34;
+}
+node.ALG {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 80px;
+}
+node.CHR6055 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+}
+node.CHR6063 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+}
+node.CHR6613 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 80px;
+  color: #FFC454;
+  border-color: #d7a013;
+  text-color-internal: #2A2C34;
+}
+node.CHR1051067 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 80px;
   color: #C990C0;
   border-color: #b261a5;
   text-color-internal: #FFFFFF;
+}
+node.GENE6613 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 20px;
+  color: #FFC454;
+  border-color: #d7a013;
+  text-color-internal: #2A2C34;
+}
+node.GENE1051067 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 20px;
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.OG {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #F16667;
+  border-color: #eb2728;
+  text-color-internal: #FFFFFF;
+  diameter: 50px;
+}
+node.CHR6579 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 80px;
+  color: #57C7E3;
+  border-color: #23b3d7;
+  text-color-internal: #2A2C34;
+}
+node.GENE6579 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 20px;
+  color: #57C7E3;
+  border-color: #23b3d7;
+  text-color-internal: #2A2C34;
+}
+node.CHR2607531 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #8DCC93;
+  border-color: #5db665;
+  text-color-internal: #2A2C34;
+  diameter: 80px;
+}
+node.GENE2607531 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 20px;
+  color: #8DCC93;
+  border-color: #5db665;
+  text-color-internal: #2A2C34;
+}
+node.GENE10029 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+}
+node.CHR10013 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+}
+node.GENE28377 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+}
+node.CHR9606 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 80px;
+  color: #FFC454;
+  border-color: #d7a013;
+  text-color-internal: #2A2C34;
+}
+node.GENE9986 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+}
+node.CHR9598 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 80px;
+  color: #569480;
+  border-color: #447666;
+  text-color-internal: #FFFFFF;
+}
+node.GENE9598 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 20px;
+  color: #569480;
+  border-color: #447666;
+  text-color-internal: #FFFFFF;
+}
+node.GENE9606 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 20px;
+  color: #FFC454;
+  border-color: #d7a013;
+  text-color-internal: #2A2C34;
+}
+node.CHR10041 {
+  defaultCaption: "<id>";
+  caption: "{name}";
 }
 
