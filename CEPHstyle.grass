@@ -36,6 +36,9 @@ node.ALG {
   defaultCaption: "<id>";
   caption: "{name}";
   diameter: 80px;
+  color: #DA7194;
+  border-color: #cc3c6c;
+  text-color-internal: #FFFFFF;
 }
 node.CHR6055 {
   defaultCaption: "<id>";
@@ -48,7 +51,7 @@ node.CHR6063 {
 node.CHR6613 {
   defaultCaption: "<id>";
   caption: "{name}";
-  diameter: 80px;
+  diameter: 65px;
   color: #FFC454;
   border-color: #d7a013;
   text-color-internal: #2A2C34;
@@ -56,7 +59,7 @@ node.CHR6613 {
 node.CHR1051067 {
   defaultCaption: "<id>";
   caption: "{name}";
-  diameter: 80px;
+  diameter: 65px;
   color: #C990C0;
   border-color: #b261a5;
   text-color-internal: #FFFFFF;
@@ -80,9 +83,9 @@ node.GENE1051067 {
 node.OG {
   defaultCaption: "<id>";
   caption: "{name}";
-  color: #F16667;
-  border-color: #eb2728;
-  text-color-internal: #FFFFFF;
+  color: #D9C8AE;
+  border-color: #c0a378;
+  text-color-internal: #2A2C34;
   diameter: 50px;
 }
 node.CHR6579 {
@@ -107,7 +110,7 @@ node.CHR2607531 {
   color: #8DCC93;
   border-color: #5db665;
   text-color-internal: #2A2C34;
-  diameter: 80px;
+  diameter: 65px;
 }
 node.GENE2607531 {
   defaultCaption: "<id>";
@@ -168,4 +171,93 @@ node.GENE9606 {
 node.CHR10041 {
   defaultCaption: "<id>";
   caption: "{name}";
+}
+node.OCNE {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #F16667;
+  border-color: #eb2728;
+  text-color-internal: #FFFFFF;
+  diameter: 80px;
+}
+node.CNE70193 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #57C7E3;
+  border-color: #23b3d7;
+  text-color-internal: #2A2C34;
+}
+node.CNE6645 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #4C8EDA;
+  border-color: #2870c2;
+  text-color-internal: #FFFFFF;
+}
+node.CNE6613 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #FFC454;
+  border-color: #d7a013;
+  text-color-internal: #2A2C34;
+  diameter: 50px;
+}
+node.CNE37653 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #604A0E;
+  border-color: #423204;
+  text-color-internal: #FFFFFF;
+}
+node.CNE34570 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #F79767;
+  border-color: #f36924;
+  text-color-internal: #FFFFFF;
+}
+node.CNE2607531 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #8DCC93;
+  border-color: #5db665;
+  text-color-internal: #2A2C34;
+}
+node.CNE1051067 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  color: #C990C0;
+  border-color: #b261a5;
+  text-color-internal: #FFFFFF;
+}
+node.CHR37653 {
+  caption: "{name}";
+  diameter: 65px;
+  color: #604A0E;
+  border-color: #423204;
+  text-color-internal: #FFFFFF;
+}
+node.CHR70193 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 65px;
+  color: #57C7E3;
+  border-color: #23b3d7;
+  text-color-internal: #2A2C34;
+}
+node.CHR6645 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 65px;
+  color: #4C8EDA;
+  border-color: #2870c2;
+  text-color-internal: #FFFFFF;
+}
+node.CHR34570 {
+  defaultCaption: "<id>";
+  caption: "{name}";
+  diameter: 65px;
+  color: #F79767;
+  border-color: #f36924;
+  text-color-internal: #FFFFFF;
 }
